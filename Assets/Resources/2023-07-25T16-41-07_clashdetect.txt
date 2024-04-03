@@ -1,0 +1,12 @@
+16:41:07.109 : tid: MN0: Create (tid:24892)
+16:41:07.110 : tid: MN0: Debug ver [5.11.0.99999(00000000)]
+16:41:07.111 : tid: MN0: Build date: [(Jul 25 2023) 16:09:37]
+16:41:07.111 : tid: MN0: affinity already applied (65534)
+16:41:07.513 : tid:   1: _oneContact=1, maxContacts=1
+16:41:07.513 : tid:   1: maxPCNodeVerts=4000
+16:41:07.514 : tid:   1: use pointcloud multithread
+16:41:07.515 : tid:   1: 0: TestType=2,  duplicatesOpt=1 {
+16:41:07.518 : tid:   1:  Exec {
+16:41:07.519 : tid:   1:   Found 245 pairs
+16:41:07.521 : tid:   1:  } 2ms (0 contacts)
+16:41:07.522 : tid:   1: }
