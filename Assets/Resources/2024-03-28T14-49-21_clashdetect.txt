@@ -1,4 +1,0 @@
-14:49:21.198 : tid: MN0: Create (tid:41744)
-14:49:21.202 : tid: MN0: Debug ver [5.13.0.99999(00000000)]
-14:49:21.202 : tid: MN0: Build date: [(Mar 26 2024) 14:30:55]
-14:49:21.202 : tid: MN0: cores: available: 16, utilized: 15
