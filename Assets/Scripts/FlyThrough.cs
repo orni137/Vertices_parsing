@@ -31,7 +31,7 @@ public class FlyThrough : MonoBehaviour {
         }
     }
 
-    void LateUpdate ()  {
+    void FixedUpdate ()  {
         if (Input.GetMouseButton (1)) {
             rotationX += Input.GetAxis ("Mouse X") * lookSpeed;
             rotationY += Input.GetAxis ("Mouse Y") * lookSpeed;
